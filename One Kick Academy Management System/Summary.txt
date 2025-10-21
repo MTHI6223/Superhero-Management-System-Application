@@ -1,0 +1,4 @@
+Total Superheroes: X
+Average Age: Y
+Average Exam Score: Z
+S-Rank: A, A-Rank: B, B-Rank: C, C-Rank: D

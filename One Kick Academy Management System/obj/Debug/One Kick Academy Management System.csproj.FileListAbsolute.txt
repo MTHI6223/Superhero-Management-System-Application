@@ -1,0 +1,22 @@
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\bin\Debug\One Kick Academy Management System.exe.config
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\bin\Debug\One Kick Academy Management System.exe
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\bin\Debug\One Kick Academy Management System.pdb
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.csproj.AssemblyReference.cache
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One_Kick_Academy_Management_System.Form1.resources
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One_Kick_Academy_Management_System.Properties.Resources.resources
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.csproj.GenerateResource.cache
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.csproj.CoreCompileInputs.cache
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.exe
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.pdb
+C:\Users\motau\OneDrive\Desktop\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.exe.config
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\bin\Debug\One Kick Academy Management System.exe.config
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\bin\Debug\One Kick Academy Management System.exe
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\bin\Debug\One Kick Academy Management System.pdb
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.csproj.AssemblyReference.cache
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.exe.config
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One_Kick_Academy_Management_System.Form1.resources
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One_Kick_Academy_Management_System.Properties.Resources.resources
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.csproj.GenerateResource.cache
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.csproj.CoreCompileInputs.cache
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.exe
+C:\Users\smoza\Downloads\PRG272 Project\PRG272 Project\One Kick Academy Management System\obj\Debug\One Kick Academy Management System.pdb

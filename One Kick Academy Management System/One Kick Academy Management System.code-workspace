@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Superhero-Management-System-Application",
+			"path": "../Superhero-Management-System-Application"
+		}
+	],
+	"settings": {
+		"dotnet.preferCSharpExtension": true
+	}
+}

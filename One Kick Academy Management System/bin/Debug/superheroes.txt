@@ -1,0 +1,5 @@
+1|Aquaman|40|control the sea|75|A|Midterm Madness
+2|Superman|35|Krypton|99|S|Finals Week
+3|Batman|36|None|15|C|Pop Quiz
+4|Zatana|25|Magic|75|A|Midterm Madness
+5|Constatine|45|Sorcery|95|S|Finals Week

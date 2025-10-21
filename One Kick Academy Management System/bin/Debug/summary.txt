@@ -1,0 +1,7 @@
+Total Superheroes: 5
+Average Age: 36,2
+Average Exam Score: 71,8
+S-Rank: 2
+A-Rank: 2
+B-Rank: 0
+C-Rank: 1
