@@ -1,0 +1,9 @@
+﻿Hero ID: 1  |Age:15 |NameOfentse |SuperpowerFly  |Hero Exam Score:78  |Rank A-Rank  |Threat Level: Midterm Madness   
+Hero ID: 1  |Age:89 |NameThabani |SuperpowerSpeed  |Hero Exam Score:78  |Rank A-Rank  |Threat Level: Midterm Madness   
+Hero ID: 9  |Age:8 |NameMelissa |SuperpowerStrength  |Hero Exam Score:90  |Rank S-Rank  |Threat Level: Finals Week   
+Hero ID: 10  |Age:21 |NameOfentse |Superpowerdedw  |Hero Exam Score:34  |Rank C-Rank  |Threat Level: Pop Quiz
+   Hero ID: 90  |Age: 13 |Name: Thabi |Superpower: Speed  |Hero Exam Score: 23  |Rank C-Rank  |Threat Level: Pop Quiz
+   Hero ID: 87  |Age: 76 |Name: T |Superpower: Fly  |Hero Exam Score: 12  |Rank C-Rank  |Threat Level: Pop Quiz
+   Hero ID: 73  |Age: 89 |Name: htyeg |Superpower: fly  |Hero Exam Score: 12  |Rank C-Rank  |Threat Level: Pop Quiz
+   Hero ID: 64  |Age: 89 |Name: htyeg |Superpower: fly  |Hero Exam Score: 12  |Rank C-Rank  |Threat Level: Pop Quiz
+   Hero ID: 66  |Age: 89 |Name: htyeg |Superpower: fly  |Hero Exam Score: 99  |Rank S-Rank  |Threat Level: Finals Week
