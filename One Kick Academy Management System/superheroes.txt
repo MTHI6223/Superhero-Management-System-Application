@@ -1,1 +1,0 @@
-HeroID|Name|Age|Superpower|ExamScore|Rank|ThreatLevel
